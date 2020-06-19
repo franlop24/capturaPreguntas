@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro de Preguntas</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+    <div class="container mt-2 mb-5">
+        <header>
+            <div class="jumbotron">
+                <h1>Captura de Preguntas</h1>
+            </div>
+        </header>
+        <div id="registro">
+            <div id="mensaje"></div>
+                <div class="form-group">
+                    <label for="id_pregunta">Id Pregunta</label>
+                    <input type="number" class="form-control" id="id_pregunta">
+                </div>
+                <div class="form-group">
+                    <label for="pregunta_txt">Pregunta</label>
+                    <textarea class="form-control" id="pregunta_txt" rows="4"></textarea>
+                </div>
+                <div class="progress-panel">
+                    <div class="custom-file">
+                        <input type="file" class="custom-file-input" id="btnUploadFile" />
+                        <label class="custom-file-label" for="btnUploadFile">Selecciona Imagen</label>
+                    </div>
+                    <div class="progress mt-2">
+                        <div class="progress-bar bg-info" style="width: 0%"></div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="res1">Respuesta 1</label>
+                    <input type="text" id="res1" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="res2">Respuesta 2</label>
+                    <input type="text" id="res2" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="res3">Respuesta 3</label>
+                    <input type="text" id="res3" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="res4">Respuesta 4</label>
+                    <input type="text" id="res4" class="form-control">
+                </div>
+                <hr>
+                <div class="form-group">
+                    <label for="correcta">Respuesta Correcta</label>
+                    <input type="text" id="correcta" class="form-control">
+                </div>
+                <input id="btnGuarda" type="submit" value="Registro" class="btn btn-outline-success btn-block">
+                <input id="btnLimpia" type="submit" value="Limpiar" class="btn btn-outline-warning btn-block">
+                
+        </div>
+    </div>
+
+    <!-- Imports Bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+    <!-- Imports Firebase -->
+    <script src="https://www.gstatic.com/firebasejs/6.2.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/6.2.0/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/6.2.0/firebase-storage.js"></script>
+
+    <!-- Imports funcionalidad -->
+    <script src="js/config/ConfigFirebase.js"></script>
+    <script src="js/preguntas/preguntas.js"></script>
+    <script src="js/general.js"></script>
+    <script src="js/preguntas/preguntasController.js"></script>
+</body>
+</html>

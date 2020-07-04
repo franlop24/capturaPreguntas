@@ -1,0 +1,202 @@
+[]
+​
+0: {…}
+​​
+id_pregunta: "68"
+​​
+preguntatxt: " "
+​​
+preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F68%20-%202.jpg?alt=media&token=1babc21c-185a-4488-9e17-812c3f1c5414"
+​​
+respuesta1: "Dirige"
+​​
+respuesta2: "Acata"
+​​
+respuesta3: "Conduce"
+​​
+respuesta4: " Administra"
+​​
+<prototype>: Object { … }
+​
+1: Object { id_pregunta: "67", preguntatxt: "¿Cuál es el anexo que enlaza las oraciones?\nEn los ensayos de Octavio Paz nos encontramos ante una variedad impresionante de temas sobresaliendo los de asunto antropológicos, en particular en lo referente al mexicano, como lo testigua su obra clásica El laberinto de soledad. ______ también abunda, especialmente en su poesía, los temas del amor, del erotismo, de la poesía, de lo religioso y de la metafísica del ser.", respuesta1: "Y", … }
+​
+2: Object { id_pregunta: "40", preguntatxt: "¿Cuántos lados tiene una figura volumétrica con una base cuadrada y lados triangulares del mismo tamaño?", respuesta1: "2", … }
+​
+3: Object { id_pregunta: "8", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F08%20-%201.jpg?alt=media&token=61f56205-b83e-46f2-ada5-2b0102cba50c", … }
+​
+4: Object { id_pregunta: "53", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F53%20-%201.jpg?alt=media&token=c31d6c18-5a40-486c-9680-10e0f6f547df", … }
+​
+5: Object { id_pregunta: "4", preguntatxt: "En una cubeta depositan 6 L. de agua, lo cual corresponde a 2/5 del volumen de la cubeta. ¿Cuál es el volumen de la cubeta, en litros?", respuesta1: "12/5", … }
+​
+6: Object { id_pregunta: "26", preguntatxt: "Elija las letras del código que completen la frase: la ociosidad es la madre de todos los vicios.\nYn cpvcgvqñq rg yñ znqfr qr hcqcg ycg", respuesta1: "iuoubf", … }
+​
+7: Object { id_pregunta: "61", preguntatxt: "Seleccione la opción que contiene un error ortográfico de los térrminos.", respuesta1: "Grave - grave", … }
+​
+8: Object { id_pregunta: "78", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F75%20-%202.jpg?alt=media&token=a688ae37-bb1e-4fbb-b784-38a67ff96bce", … }
+​
+9: Object { id_pregunta: "89", preguntatxt: "  ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F89%20-%204.jpg?alt=media&token=cf942b23-a9dc-4cd9-9287-6e54b62040cc", … }
+​
+10: Object { id_pregunta: "52", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F52%20-%201.jpg?alt=media&token=21da2364-46a0-4e58-a5fc-77eafbe59d00", … }
+​
+11: Object { id_pregunta: "88", preguntatxt: "  ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F88%20-%203.jpg?alt=media&token=9685afdb-ec0c-4c58-aa8d-c660216cd5d9", … }
+​
+12: Object { id_pregunta: "80", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F80%20-%204.jpg?alt=media&token=f2d423bc-f0e3-4746-a1fe-b9ed871f6dc6", … }
+​
+13: Object { id_pregunta: "20", preguntatxt: "En una línea de autobuses, el costo del pasaje de lujo lo obtenemos de tomar 2/15 partes del triple del pasaje económico. Si el pasaje económico cuesta n, ¿Cuál es el costo del pasaje de lujo?", respuesta1: "(2/15)n", … }
+​
+14: Object { id_pregunta: "57", preguntatxt: "Elija el par de oraciones que tengan palabras homónimas.", respuesta1: "El jefe es muy terco y no admite su error; un hombre necio jamas escucha razones", … }
+​
+15: Object { id_pregunta: "13", preguntatxt: "¿Cuál es el número tal que el cuadrado de su mitad es igual al mismo número con sus dígitos en orden inverso?", respuesta1: "13", … }
+​
+16: Object { id_pregunta: "23", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F23%20-%201%20copia.jpg?alt=media&token=8dd8eebd-5077-4556-bda8-d8a736b91c62", … }
+​
+17: Object { id_pregunta: "27", preguntatxt: "Una pelota se deja caer desde una altura de 30 m. Al primer rebote alcanza una altura 3/4 veces de la altura total, al segundo rebote alcanza una altura 3/4 veces la altura del primer rebote, y así sucesivamente. ¿Qué altura alcanza la pelota al cuarto rebote?", respuesta1: "26.66", … }
+​
+18: Object { id_pregunta: "82", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F82%20-%204.jpg?alt=media&token=68a0a29d-1c8b-456d-a22c-b080adf4b14d", … }
+​
+19: Object { id_pregunta: "16", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F16%20-%203%20copia.jpg?alt=media&token=c5cb5322-65d0-4f15-9269-841fce74b318", … }
+​
+20: Object { id_pregunta: "43", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F43%20-%203.jpg?alt=media&token=c83ce91b-eab8-4b0b-90fd-74d93800ab91", … }
+​
+21: Object { id_pregunta: "37", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F37%20-%204%20copia.jpg?alt=media&token=e40abd79-9362-4162-8d3b-bfd24ab7bff7", … }
+​
+22: Object { id_pregunta: "56", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F56%20-%202.jpg?alt=media&token=77b3a34a-c7d7-4198-aff0-d02e9770641b", … }
+​
+23: Object { id_pregunta: "5", preguntatxt: "El peso de 180 bultos de cemento es de 9,000 kg. ¿Cuál es el peso total si se retira 15% de los bultos?", respuesta1: "1,350", … }
+​
+24: Object { id_pregunta: "35", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F35%20-%204%20copia.jpg?alt=media&token=89d6cd3a-1429-47f9-b139-be5019858b89", … }
+​
+25: Object { id_pregunta: "11", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F11%20-%203%20copia.jpg?alt=media&token=c2bda8e7-174b-4536-8997-d0ade0e099af", … }
+​
+26: Object { id_pregunta: "39", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F39%20-%204%20copia.jpg?alt=media&token=22083c42-a48f-445c-9457-357565ee43a1", … }
+​
+27: Object { id_pregunta: "9", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F09%20-%201.jpg?alt=media&token=e56c75a6-669d-45d2-acb7-0579043a11ff", … }
+​
+28: Object { id_pregunta: "31", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F31%20-%203%20copia.jpg?alt=media&token=ca46d57d-87fe-4afc-b0bc-fa9709673438", … }
+​
+29: Object { id_pregunta: "29", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F29%20-%203%20copia.jpg?alt=media&token=531389c5-a07b-46d2-95cb-2af5dfc21b63", … }
+​
+30: Object { id_pregunta: "76", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F76%20-%202.jpg?alt=media&token=cabdc05f-d363-4e76-af83-a02fb4e64338", … }
+​
+31: Object { id_pregunta: "58", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F58%20-%203.jpg?alt=media&token=d28880f2-0c89-4e7e-93bb-3cecab72ad00", … }
+​
+32: Object { id_pregunta: "17", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F17%20-%203%20copia.jpg?alt=media&token=fb78cbd7-54fb-41ec-a5e1-e824c423559e", … }
+​
+33: Object { id_pregunta: "54", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F54%20-%201.jpg?alt=media&token=cc8639b0-07e7-429c-9207-d02857d9132e", … }
+​
+34: Object { id_pregunta: "71", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F71%20-%204.jpg?alt=media&token=b27e33d0-1853-4406-afb8-78bd10a40522", … }
+​
+35: Object { id_pregunta: "18", preguntatxt: "E una caja se encuentran 25 tarjetas de memoria. Si 2 tarjetas están dañadas, ¿Cuál es la probabilidad de sacar una tarjeta defectuosa?", respuesta1: "1/2", … }
+​
+36: Object { id_pregunta: "21", preguntatxt: "¿Cuáles son las coordenadas del punto R, donde la recta 3x - y - 9 = 0 intersecta a la recta 2x + 3y + 5 = 0?", respuesta1: "(-2, -15)", … }
+​
+37: Object { id_pregunta: "56", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F56%20-%202.jpg?alt=media&token=20e01b61-caeb-4f0d-9e73-edcbfd4450b4", … }
+​
+38: Object { id_pregunta: "81", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F81%20-%204.jpg?alt=media&token=657f1fef-b434-4370-8dc0-6336ff18ac23", … }
+​
+39: Object { id_pregunta: "38", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F38%20-%203.png?alt=media&token=0acf5bbf-7a7d-46dc-9e4d-1887533b017d", … }
+​
+40: Object { id_pregunta: "46", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F46%20-%203.jpg?alt=media&token=763aa3d5-2adf-4e11-908f-4cc3806b6126", … }
+​
+41: Object { id_pregunta: "7", preguntatxt: "¿Cuál es el valor de 3x + 5z^2, si x = 2 y z = 1?", respuesta1: "11", … }
+​
+42: Object { id_pregunta: "22", preguntatxt: "Si el código siguiente !Zkdqsz¡ Quiere decir alerta ¿Cómo se escribe error?", respuesta1: "Dqqnq", … }
+​
+43: Object { id_pregunta: "70", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F70%20-%202.jpg?alt=media&token=7a5e599c-0764-481e-a3f0-d41ad37ca3f1", … }
+​
+44: Object { id_pregunta: "84", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F84%20-%204.jpg?alt=media&token=e7e8c170-89db-4dc6-b55c-83dd7b222398", … }
+​
+45: Object { id_pregunta: "14", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F14%20-%201%20copia.jpg?alt=media&token=ae74cec6-93fa-4b2c-84b7-9170434bbd30", … }
+​
+46: Object { id_pregunta: "74", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F74%20-%203.jpg?alt=media&token=44aed848-2cf7-490c-8fe9-6fa3eb99c017", … }
+​
+47: Object { id_pregunta: "51", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F51%20-%201.jpg?alt=media&token=c6338b97-3037-4d60-9f80-19c78a3b40f0", … }
+​
+48: Object { id_pregunta: "63", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F63%20-%204.jpg?alt=media&token=e3200174-6751-4c50-b500-8f72e6c7e633", … }
+​
+49: Object { id_pregunta: "73", preguntatxt: "¿Cuál es el antónimo de servilismo?", respuesta1: "Servicio", … }
+​
+50: Object { id_pregunta: "65", preguntatxt: "Tranquilizate, bebe esta infusión de _______, mientras me dejas ______ bien la carne.", respuesta1: "azahar - azar", … }
+​
+51: Object { id_pregunta: "25", preguntatxt: "Complete el silogismo.\nTodos los libros son libros de referencia.\nNingún libro de referencia es enciclopedia.\nEntonces...", respuesta1: "ningún libro es enciclopedia", … }
+​
+52: Object { id_pregunta: "59", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F59%20-%202.jpg?alt=media&token=e99c7350-8793-44fd-9964-ec2694c4dee8", … }
+​
+53: Object { id_pregunta: "44", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F44%20-%203.jpg?alt=media&token=3a43c46c-dfab-4eb3-9c43-095f577e713f", … }
+​
+54: Object { id_pregunta: "15", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F15%20-%201%20copia.jpg?alt=media&token=ad6df1dd-ff17-4974-8f2f-e9766f7d546e", … }
+​
+55: Object { id_pregunta: "60", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F60%20-%204.jpg?alt=media&token=232983ed-26a7-4719-9a30-9898ddf89689", … }
+​
+56: Object { id_pregunta: "87", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F87%20-%201.jpg?alt=media&token=b505e571-e6b0-4a99-8e44-786b7f5a15e2", … }
+​
+57: Object { id_pregunta: "86", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F86%20-%203.jpg?alt=media&token=6a375ac3-ddc2-4397-8de6-27c2b44912e8", … }
+​
+58: Object { id_pregunta: "24", preguntatxt: "Pediatra es a niño como...", respuesta1: "clínica a pacientes", … }
+​
+59: Object { id_pregunta: "19", preguntatxt: "Si en un recipiente tenemos 6 canicas rojas, 4 blancas y 5 azules, ¿Cuál es la probabilidad de que al extraer una con los ojos cerrados, esta sea blanca?", respuesta1: "2/5", … }
+​
+60: Object { id_pregunta: "3", preguntatxt: "Un pastel se divide en 12 partes iguales, pero se reparten en forma desigual: Carlos se lleva un tercio del pastel; Andrea se lleva un cuarto del pastel y Diana toma un sexto del pastel. ¿Cuántos trozos le quedaron a Andrés?", respuesta1: "3", … }
+​
+61: Object { id_pregunta: "79", preguntatxt: "  ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F79%20-%201.jpg?alt=media&token=ee77e125-0795-4ca2-95b1-833204762d22", … }
+​
+62: Object { id_pregunta: "47", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F47%20-%204.jpg?alt=media&token=567fad02-8609-443e-a553-6dae05e16cec", … }
+​
+63: Object { id_pregunta: "36", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F36%20-%202%20copia.jpg?alt=media&token=dd2b0c27-0747-4e05-8526-4ee489b96913", … }
+​
+64: Object { id_pregunta: "66", preguntatxt: "Determine qué signos de puntuación se omitieron en el siguiente párrafo.\nPor falta de quórum la comisionada del Instituto Nacional de Migración INM Cecilia Romero no comparecerá ante la Comisión Permanente funcionaria estaba programada para hoy a las 17:00 horas para comparecer ante la primera comisión de la Comisión Permanente", respuesta1: "Puntos, comas, y comillas", … }
+​
+65: Object { id_pregunta: "50", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F50%20-%201.jpg?alt=media&token=4857b7e0-6df5-4f19-a494-0a2836ab640b", … }
+​
+66: Object { id_pregunta: "34", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F34%20-%203%20copia.jpg?alt=media&token=8459be7a-464f-4a41-b2b9-9730d5715c70", … }
+​
+67: Object { id_pregunta: "64", preguntatxt: "Elija el par de palabras que ejemplifican el uso de los antónimos.", respuesta1: "Limpio - aseado ", … }
+​
+68: Object { id_pregunta: "32", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F32%20-%204%20copia.jpg?alt=media&token=4774fc30-0b9b-4c0d-88e2-d58a42dfa588", … }
+​
+69: Object { id_pregunta: "42", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F42%20-%204.jpg?alt=media&token=43aaf424-6a4d-4a73-a231-22adb0e06cf4", … }
+​
+70: Object { id_pregunta: "1", preguntatxt: "El Promedio de 6 números es 4.5. ¿Cuál es la suma de los números?", respuesta1: "27", … }
+​
+71: Object { id_pregunta: "62", preguntatxt: "Analice los conjuntos de palabras y seleccione la afirmación correcta.\n{toalla, Tamaulipas, oeste, científico}\n{posesión, león, María, Suárez}", respuesta1: "Todas las palabras del primer conjunto contienen triptongos", … }
+​
+72: Object { id_pregunta: "69", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F69%20-%201.jpg?alt=media&token=2f5740ca-62a8-4b8e-8b9d-994377574e9b", … }
+​
+73: Object { id_pregunta: "28", preguntatxt: "Son números que siguen una secuencia, excepto: 3,4,6,9,14...", respuesta1: "4", … }
+​
+74: Object { id_pregunta: "6", preguntatxt: "Si 7 rosas cuestan $392, ¿Cuánto costara 5 1/2 docenas de rosas?", respuesta1: "3,360", … }
+​
+75: Object { id_pregunta: "30", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F30%20-%204%20copia.jpg?alt=media&token=a6974fa4-453c-433c-b315-4367828f5338", … }
+​
+76: Object { id_pregunta: "41", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F41%20-%203.jpg?alt=media&token=1dff7de4-5030-4da5-a905-b0cc1cb949c8", … }
+​
+77: Object { id_pregunta: "72", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F72%20-%203.jpg?alt=media&token=7d2eacae-9195-40a5-94d6-1960d0556ecc", … }
+​
+78: Object { id_pregunta: "49", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F49%20-%201.jpg?alt=media&token=94101888-9ad8-409a-aa60-eeb49d93ce6e", … }
+​
+79: Object { id_pregunta: "45", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F45%20-%202.jpg?alt=media&token=46173600-3a12-499f-aee7-9ed7b372c3c5", … }
+​
+80: Object { id_pregunta: "90", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F90%20-%203.jpg?alt=media&token=2eb78293-642d-4d7b-93ea-5090d08b3cec", … }
+​
+81: Object { id_pregunta: "10", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F10%20-%201.jpg?alt=media&token=787840e0-da07-4335-8d2e-89d44a0acac8", … }
+​
+82: Object { id_pregunta: "85", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F85%20-%204.jpg?alt=media&token=5002a990-6aaf-482d-a799-286b50138503", … }
+​
+83: Object { id_pregunta: "75", preguntatxt: " \n", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F75%20-%202.jpg?alt=media&token=9bd5ca38-5361-49c6-aff0-f605e9269ac4", … }
+​
+84: Object { id_pregunta: "33", preguntatxt: "¿Cuál número rompe con el patrón de la serie?", respuesta1: "-100", … }
+​
+85: Object { id_pregunta: "48", preguntatxt: "Es un antónimo de Lánguido", respuesta1: "Dañado", … }
+​
+86: Object { id_pregunta: "2", preguntatxt: "Si x = 2/5 +5/2, entonces 1/x es igual a:", respuesta1: "7/10", … }
+​
+87: Object { id_pregunta: "12", preguntatxt: "¿Cuál es el valor de x, si 2 + (3/2) x =7?", respuesta1: "18/3", … }
+​
+88: Object { id_pregunta: "83", preguntatxt: "  ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F83%20-%201.jpg?alt=media&token=206dae8d-32f0-4ef7-ac3c-a9af89473c0f", … }
+​
+89: Object { id_pregunta: "77", preguntatxt: " ", preguntaurl: "https://firebasestorage.googleapis.com/v0/b/seani-954ac.appspot.com/o/imgPreguntas%2F77%20-%202.jpg?alt=media&token=3d8619f3-4dcd-4c5f-abda-0c3e053fff64", … }
+​
+length: 90
+​
+<prototype>: Array []
+preguntas.js:54:17

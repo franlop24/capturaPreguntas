@@ -11,13 +11,15 @@ $(() => {
           $('#res2').val() == '' || 
           $('#res3').val() == '' || 
           $('#res4').val() == '' || 
-          $('#correcta').val() == ''
+          $('#correcta').val() == '' ||
+          $('#id_examen').val() == ''
           ){
             return;
           }
 
       const pregunta = new Pregunta();
     
+      const id_examen = $('#id_examen').val();
       const id_pregunta = $('#id_pregunta').val();
       const pregunta_txt = $('#pregunta_txt').val();
       const respuesta1 = $('#res1').val();
@@ -31,6 +33,7 @@ $(() => {
   
       pregunta
         .crearPregunta(
+          id_examen,
           id_pregunta,
           pregunta_txt,
           pregunta_url,
@@ -59,6 +62,7 @@ $(() => {
   })
   
   function Limpia(){
+    $('#id_examen').val('');
     $('#id_pregunta').val('');
     $('#pregunta_txt').val('');
     $('#res1').val('');

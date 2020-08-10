@@ -5,9 +5,33 @@ class Pregunta {
         //this.db.settings(settings);
     }
 
-    crearPregunta (id_pregunta, preguntatxt, preguntaurl, respuesta1, respuesta2, respuesta3, respuesta4, correcta) {
+    crearPregunta (id_examen, id_pregunta, preguntatxt, preguntaurl, respuesta1, respuesta2, respuesta3, respuesta4, correcta) {
 
-        return this.db.collection('preguntas').add({
+        let descExam = '';
+        let descCorrec = '';
+        switch(id_examen){
+            case 1:
+                descExam = 'preguntasPM';
+                descCorrec = 'correctasPM';
+                break;
+            case 2:
+                descExam = 'preguntasPA';
+                descCorrec = 'correctasPA';
+                break;
+            case 3:
+                descExam = 'preguntasEL';
+                descCorrec = 'correctasEL';
+                break;
+            case 4:
+                descExam = 'preguntasCL';
+                descCorrec = 'correctasCL';
+                break;
+            default:
+                descExam = '';
+                descCorrec = '';
+                break;
+        }
+        return this.db.collection(descExam).add({
             id_pregunta : id_pregunta,
             preguntatxt : preguntatxt,
             preguntaurl : preguntaurl,
@@ -18,7 +42,7 @@ class Pregunta {
         })
         .then( refDoc => {
           console.log(`Id de la pregunta => ${refDoc.id}`);
-          return this.db.collection('correctas').add({
+          return this.db.collection(descCorrec).add({
               id_pregunta: id_pregunta,
               correcta: correcta
           })
@@ -34,6 +58,32 @@ class Pregunta {
         })
     }
 
+    subirImagenPregunta(file){
+        const refStorage = firebase.storage().ref(`imgPreguntas/${file.name}`);
+        const task = refStorage.put(file);
+
+        task.on('state_changed',
+          snapshot => {
+              const porcentaje = snapshot.bytesTransferred / snapshot.totalBytes * 100;
+              $('.progress-bar').attr('style',`width: ${porcentaje}%`);
+          },
+          err => {
+              console.log(`Error subiendo el archivo => ${err.message}`,4000);
+          },
+          () => {
+              task.snapshot.ref
+                  .getDownloadURL()
+                  .then( url => {
+                      console.log(url);
+                      sessionStorage.setItem('imgNewPreg', url);
+                  })
+                  .catch( error => {
+                      console.log(`Error obteniendo downloadURL => ${error}`, 4000);
+                  })
+          }
+          )
+    }
+ /*
     consultarTodasPreguntas () {
         this.db.collection('preguntas')
         .onSnapshot(querySnapshot => {
@@ -170,32 +220,6 @@ class Pregunta {
             })
             console.log(preguntasExam.length);
         })
-    }
-
-    subirImagenPregunta(file){
-        const refStorage = firebase.storage().ref(`imgPreguntas/${file.name}`);
-        const task = refStorage.put(file);
-
-        task.on('state_changed',
-          snapshot => {
-              const porcentaje = snapshot.bytesTransferred / snapshot.totalBytes * 100;
-              $('.progress-bar').attr('style',`width: ${porcentaje}%`);
-          },
-          err => {
-              console.log(`Error subiendo el archivo => ${err.message}`,4000);
-          },
-          () => {
-              task.snapshot.ref
-                  .getDownloadURL()
-                  .then( url => {
-                      console.log(url);
-                      sessionStorage.setItem('imgNewPreg', url);
-                  })
-                  .catch( error => {
-                      console.log(`Error obteniendo downloadURL => ${error}`, 4000);
-                  })
-          }
-          )
-    }
+    }*/
 
   }
